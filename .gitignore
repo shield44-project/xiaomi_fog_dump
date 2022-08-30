@@ -1,0 +1,5 @@
+boot.img
+product/priv-app/PrebuiltGmsCore/PrebuiltGmsCoreSc.apk
+product/priv-app/Velvet/Velvet.apk
+system_ext/apex/com.android.vndk.v30.apex
+system_ext/priv-app/Settings/Settings.apk

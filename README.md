@@ -1,0 +1,13 @@
+# fog-user 11 RKQ1.211001.001 V13.0.10.0.RGEMIXM release-keys
+- manufacturer: 
+- platform: bengal
+- codename: fog
+- flavor: aosp_fog-userdebug
+- release: 12
+- id: SQ3A.220705.004
+- incremental: 1661772524
+- tags: test-keys
+- fingerprint: Redmi/fog_global/fog:11/RKQ1.211001.001/V13.0.10.0.RGEMIXM:user/release-keys
+- brand: Xiaomi
+- branch: fog-user-11-RKQ1.211001.001-V13.0.10.0.RGEMIXM-release-keys
+- repo: xiaomi_fog_dump
